@@ -1,0 +1,13 @@
+---
+title: "My Bookdown"
+author: "YOUR NAME"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+description: "This is an example of using the bookdown package. The output format for this example is bookdown::gitbook."
+---
+
+#My Intro {-}
+
+This is an example of a bookdown document. 
